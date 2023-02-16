@@ -1,0 +1,6 @@
+1. Setar arquivo .env --> Ok
+2. Ler dados do arquivo .env (porta) --> Ok
+3. Fazer com que o servidot tcp escute na porta --> Ok
+4. Gerar ID do cliente --> Ok
+5. Enviar ID gerado para o cliente --> Ok
+6.
