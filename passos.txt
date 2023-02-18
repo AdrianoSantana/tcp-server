@@ -3,4 +3,9 @@
 3. Fazer com que o servidot tcp escute na porta --> Ok
 4. Gerar ID do cliente --> Ok
 5. Enviar ID gerado para o cliente --> Ok
-6.
+6. RECEBER os 3 campos --> id, action e body --> Ok
+7. Receber actions --> OK
+8. Gerar lista dos clients --> OK
+8. Receber actions --> RELAY
+
+x. Receber multiplos clientes
