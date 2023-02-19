@@ -6,6 +6,9 @@
 6. RECEBER os 3 campos --> id, action e body --> Ok
 7. Receber actions --> OK
 8. Gerar lista dos clients --> OK
-8. Receber actions --> RELAY
+9. Receber actions --> RELAY --> OK
+10. Enviar o body para o cliente --> OK
+11. Criar um cliente TCP
 
-x. Receber multiplos clientes
+
+12. Receber multiplos clientes
